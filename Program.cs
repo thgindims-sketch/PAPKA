@@ -6,13 +6,18 @@ namespace PAPKA // Создание именного пространства с
     {
         static void Main() // Не знпю что это.
         {
-            int number = -10;
-            Console.WriteLine(number);
-            number = 10;
-            Console.WriteLine("Переменная: " + number + " HMYR");
-            number = 5;
-            Console.WriteLine(number);
+            int number = 33000;
+            Console.WriteLine(number); // Int - от -2 миллиардов примерно до 2 миллиардов примерно. Uint - ТОЛЬКО положительные числа. Byte - от 0 до 255. Short - от -32 тысяч до 32 тысяч. Long - от -3 - -4 триллиона до 3 - 4 триллиона.
+
+            float num = -10004.62734f; // float - используется для чисел с точкой. Чтобы завершить чило нужно добавить перед ";" знак "f", чтобы работало корректно.
+            double num_2 = 5.40094580582384023843029d; // double - используется для невероятных значений. Также как и с float, нужно добавить перед ";" знак "d", чтобы работало корректно.
             
+            string word = "Переменная: ";
+            string word_2 = "Вторая переменная: ";
+
+            Console.WriteLine(word + num + ".");
+            Console.WriteLine(word_2 + num_2 + ".");
+
             Console.WriteLine("HMYR 1"); // }
             Console.WriteLine("HMYR 2"); // } Вывод информации в консоль.
             Console.WriteLine("HMYR 3"); // }
