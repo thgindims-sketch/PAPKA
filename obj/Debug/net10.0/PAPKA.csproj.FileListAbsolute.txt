@@ -12,3 +12,4 @@ F:\PAPKA\obj\Debug\net10.0\refint\PAPKA.dll
 F:\PAPKA\obj\Debug\net10.0\PAPKA.pdb
 F:\PAPKA\obj\Debug\net10.0\PAPKA.genruntimeconfig.cache
 F:\PAPKA\obj\Debug\net10.0\ref\PAPKA.dll
+F:\PAPKA\obj\Debug\net10.0\PAPKA.sourcelink.json

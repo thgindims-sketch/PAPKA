@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAPKA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d32b528b216247f048f0c1c539ab956bc3f02e49")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAPKA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAPKA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
