@@ -8,6 +8,10 @@ namespace PAPKA // Создание именного пространства с
         {
             int number = -10;
             Console.WriteLine(number);
+            number = 10;
+            Console.WriteLine(number);
+            number = 5;
+            Console.WriteLine(number);
             
             Console.WriteLine("HMYR 1"); // }
             Console.WriteLine("HMYR 2"); // } Вывод информации в консоль.
