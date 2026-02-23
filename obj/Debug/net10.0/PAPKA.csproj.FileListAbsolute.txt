@@ -1,0 +1,14 @@
+F:\PAPKA\bin\Debug\net10.0\PAPKA.exe
+F:\PAPKA\bin\Debug\net10.0\PAPKA.deps.json
+F:\PAPKA\bin\Debug\net10.0\PAPKA.runtimeconfig.json
+F:\PAPKA\bin\Debug\net10.0\PAPKA.dll
+F:\PAPKA\bin\Debug\net10.0\PAPKA.pdb
+F:\PAPKA\obj\Debug\net10.0\PAPKA.GeneratedMSBuildEditorConfig.editorconfig
+F:\PAPKA\obj\Debug\net10.0\PAPKA.AssemblyInfoInputs.cache
+F:\PAPKA\obj\Debug\net10.0\PAPKA.AssemblyInfo.cs
+F:\PAPKA\obj\Debug\net10.0\PAPKA.csproj.CoreCompileInputs.cache
+F:\PAPKA\obj\Debug\net10.0\PAPKA.dll
+F:\PAPKA\obj\Debug\net10.0\refint\PAPKA.dll
+F:\PAPKA\obj\Debug\net10.0\PAPKA.pdb
+F:\PAPKA\obj\Debug\net10.0\PAPKA.genruntimeconfig.cache
+F:\PAPKA\obj\Debug\net10.0\ref\PAPKA.dll
